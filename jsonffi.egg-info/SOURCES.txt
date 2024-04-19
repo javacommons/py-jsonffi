@@ -1,0 +1,8 @@
+README.md
+setup.py
+jsonffi/__init__.py
+jsonffi.egg-info/PKG-INFO
+jsonffi.egg-info/SOURCES.txt
+jsonffi.egg-info/dependency_links.txt
+jsonffi.egg-info/requires.txt
+jsonffi.egg-info/top_level.txt
